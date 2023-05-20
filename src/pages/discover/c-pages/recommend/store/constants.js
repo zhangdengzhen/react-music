@@ -1,0 +1,9 @@
+export const CHANGE_TOP_BANNERS = "recommend/CHANGE_TOP_BANNERS"
+export const CHANGE_HOT_RECOMMEND="recommend/CHANGE_HOT_RECOMMEND"
+
+export const CHANGE_NEW_ALBUM="recommend/CHANGE_NEW_ALBUM"
+
+//飙升榜，新歌榜，原创榜
+export const CHANGE_UP_RANKING = "CHANGE_UP_RANKING"
+export const CHANGE_NEW_RANKING = "CHANGE_new_RANKING"
+export const CHANGE_ORIGIN_RANKING = "CHANGE_ORIGIN_RANKING"
